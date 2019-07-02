@@ -496,3 +496,60 @@ ul.unordered-list li a:hover, ol li a:hover { border-bottom:1px solid #e44b43; -
 .close-post:hover {border:0 !important }
 /* =End Blog
 --------------------------------------------------------------------------------------------------------*/
+
+
+/* =Edited
+--------------------------------------------------------------------------------------------------------*/
+.navbarQuote {
+  font-size: 13px!important;
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  .navbarQuote {
+    font-size: 8px!important;
+  }
+  .tagline span { display: table-cell; vertical-align: middle; padding:0 0 0 10px; border-left:1px dotted #c0c0c0 }
+  
+}
+
+@media (min-width: 360px) and (max-width: 640px) {
+  
+  .navbarQuote {
+    font-size: 8px!important;
+  }
+  .tagline span { display: table-cell; vertical-align: middle; padding:0 0 0 10px; border-left:1px dotted #c0c0c0 }
+  
+}
+
+@media screen and (device-aspect-ratio: 40/71) {
+  .navbarQuote {
+    font-size: 6px!important;
+  }
+  .tagline span { display: table-cell; vertical-align: middle; padding:0 0 0 10px; border-left:1px dotted #c0c0c0 }
+}
+
+@media only screen 
+  and (min-width: 1024px) 
+  and (max-height: 1366px) 
+  and (-webkit-min-device-pixel-ratio: 1.5) {
+    .navbarQuote {
+      font-size: 9px!important;
+    }
+    .tagline span { display: table-cell; vertical-align: middle; padding:0 0 0 10px; border-left:1px dotted #c0c0c0 }
+}
+
+.map-responsive{
+  overflow:hidden;
+  padding-bottom:56.25%;
+  position:relative;
+  height:0;
+  margin-bottom: 30px;
+}
+.map-responsive iframe{
+  left:0;
+  top:0;
+  height:100%;
+  width:100%;
+  position:absolute;
+}
