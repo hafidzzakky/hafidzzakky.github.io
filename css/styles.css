@@ -95,7 +95,7 @@ p a { border-bottom:1px dotted #e44b43; -webkit-transition: all 0.2s ease 0s; -m
 p a:hover { border-bottom:1px solid #e44b43; -webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; -o-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s; }
 p { padding:0px 0px 16px 0; line-height:1.6; font-weight:400; }
 .col2-3 p { text-align:left !important }
-p.sub-heading { display: block; max-width: 424px; margin: 0 auto; font-size:17px; text-align:center; font-family:'Lora', Georgia, "Times New Roman", Times, serif; padding-bottom:36px; }
+p.sub-heading { display: block; max-width: 924px; margin: 0 auto; font-size:17px; text-align:center; font-family:'Lora', Georgia, "Times New Roman", Times, serif; padding-bottom:36px; }
 .small { font-size:13px; }
 p.no-border a { border:0 }
 .stand-alone { margin-top:13px; padding-bottom:20px; font-size:19px; font-family:'Lora', Georgia, "Times New Roman", Times, serif; font-style:italic }
@@ -122,7 +122,7 @@ p .superscript { font-size:11px; }
 --------------------------------------------------------------------------------------------------------*/
 h1#logo { display:block; display:table; height:52px; position:relative; float:left; text-transform:none }
 h1#logo a { font-size:18px; display: table-cell; vertical-align: middle; font-family: "Dosis", "Open Sans", Arial, Helvetica, sans-serif; color:#181818 }
-.tagline { float:left; font-family:'Lora', Georgia, "Times New Roman", Times, serif; font-size:13px; font-weight:400; padding:0 0 0 20px; margin:0px auto; position:relative; display:table; height:52px; margin-top:-1px; font-style:italic; }
+.tagline { float:left; font-family:'Lora', Georgia, "Times New Roman", Times, serif; font-size:12px; font-weight:400; padding:0 0 0 20px; margin:0px auto; position:relative; display:table; height:52px; margin-top:-1px; font-style:italic; }
 .tagline span { display: table-cell; vertical-align: middle; padding:0 0 0 19px; border-left:1px dotted #c0c0c0 }
 h2, h3, h4, h5 { font-family: "Dosis", "Open Sans", Arial, Helvetica, sans-serif; line-height:1.25 }
 .hentry h1, .hentry h2, .hentry h3, .hentry h4, .hentry h5 { padding-bottom:25px; }
