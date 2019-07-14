@@ -338,6 +338,12 @@ img { box-shadow: #fff 0 0 0 }
 .zoom { background:url(../images/icons/bg-zoom.png) center no-repeat; background-size:48px 48px; }
 .tags { background:url(../images/icons/bg-tags.png) center no-repeat; background-size:48px 48px; }
 .quote { background:url(../images/icons/bg-quote.png) center no-repeat; background-size:48px 48px; }
+.javascript {background:url(../images/icons/bg-js@2x.png) no-repeat center; background-size:48px 48px; }
+.ionic {background:url(../images/icons/bg-ionic@2x.png) no-repeat center; background-size:48px 48px; }
+.react {background:url(../images/icons/bg-react@2x.png) no-repeat center; background-size:48px 48px; }
+.angularjs {background:url(../images/icons/bg-angular@2x.png) no-repeat center; background-size:48px 48px; }
+.userinterface {background:url(../images/icons/bg-userinterface@2x.png) no-repeat center; background-size:48px 48px; }
+
 /* End Icons
 --------------------------------------------------------------------------------------------------------*/
 

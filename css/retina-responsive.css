@@ -17,7 +17,7 @@ only screen and (min-device-pixel-ratio: 1.5) {
 .camera {background:url(../images/icons/bg-camera@2x.png) no-repeat center; background-size:48px 48px; }
 .illustration {background:url(../images/icons/bg-illustration@2x.png) no-repeat center; background-size:48px 48px; }
 .social {background:url(../images/icons/bg-social@2x.png) no-repeat center; background-size:48px 48px; }
-.vector {background:url(../images/icons/bg-vector@2x.png) no-repeat center; background-size:48px 48px; }
+.vector{background:url(../images/icons/bg-vector@2x.png) no-repeat center; background-size:48px 48px; }
 .commerce {background:url(../images/icons/bg-commerce@2x.png) no-repeat center; background-size:48px 48px; }
 .search {background:url(../images/icons/bg-search@2x.png) no-repeat center; background-size:48px 48px; }
 .like { background:url(../images/icons/bg-like@2x.png) center no-repeat; background-size:48px 48px; }
