@@ -343,6 +343,14 @@ img { box-shadow: #fff 0 0 0 }
 .react {background:url(../images/icons/bg-react@2x.png) no-repeat center; background-size:48px 48px; }
 .angularjs {background:url(../images/icons/bg-angular@2x.png) no-repeat center; background-size:48px 48px; }
 .userinterface {background:url(../images/icons/bg-userinterface@2x.png) no-repeat center; background-size:48px 48px; }
+.docker {background:url(../images/icons/docker.svg) no-repeat center; background-size:48px 48px; }
+.github {background:url(../images/icons/github.svg) no-repeat center; background-size:48px 48px; }
+.mongodb {background:url(../images/icons/mongodb.svg) no-repeat center; background-size:48px 48px; }
+.threejs {background:url(../images/icons/threejs.svg) no-repeat center; background-size:48px 48px; margin-top: 5px; margin-left: 8px; }
+.expressjs {background:url(../images/icons/expressjs.svg) no-repeat center; background-size:48px 48px; }
+.vuejs {background:url(../images/icons/vuejs.svg) no-repeat center; background-size:48px 48px; }
+.nuxtjs {background:url(../images/icons/nuxtjs.svg) no-repeat center; background-size:48px 48px; }
+.nextjs {background:url(../images/icons/nextjs.svg) no-repeat center; background-size:48px 48px; }
 
 /* End Icons
 --------------------------------------------------------------------------------------------------------*/
